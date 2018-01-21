@@ -1,5 +1,5 @@
 # NG States
-This project aims at gathering information about states in Nigeria. This information includes local governments areas, geolocation tags, population, etc. The goal of this project is to provide a json file that will provide some information about states in Nigeria for other projects.
+This project aims at gathering information about states in Nigeria. This information includes local governments areas(with their official codes), official nicknames, official state codes, etc. The goal of this project is to provide a json file that will provide some information about states in Nigeria for other projects.
 
 ## Data
 This project has data about the states in the following format:
@@ -14,6 +14,7 @@ property                   | type   | description
 ---------------------------|--------|------------
 `name`                     | string | Full name of state
 `code`                     | string | Official state code
+`nicknames`                | array  | Official nicknames of the state
 `local_government_areas`   | array  | Array containing local governments under the state
 
 ### Local Governement Areas
