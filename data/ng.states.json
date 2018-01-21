@@ -4,7 +4,9 @@
       "code": "AB",
       "name": "Abia",
       "capital_city": "Umuahia",
-      "nicknames": ["God's Own State"],
+      "nicknames": [
+        "God's Own State"
+      ],
       "local_government_areas": [
         {
           "code": "EZA",
@@ -80,7 +82,10 @@
       "code": "AD",
       "name": "Adamawa",
       "capital_city": "Yola",
-      "nicknames": ["Land of Beauty", "Highest Peak of The Nation"],
+      "nicknames": [
+        "Land of Beauty",
+        "Highest Peak of The Nation"
+      ],
       "local_government_areas": [
         {
           "code": "DSA",
@@ -172,7 +177,9 @@
       "code": "AK",
       "name": "Akwa Ibom",
       "capital_city": "Uyo",
-      "nicknames": ["Land of Promise"],
+      "nicknames": [
+        "Land of Promise"
+      ],
       "local_government_areas": [
         {
           "code": "ABK",
@@ -304,7 +311,9 @@
       "code": "AN",
       "name": "Anambra",
       "capital_city": "Awka",
-      "nicknames": ["Light of the Nation"],
+      "nicknames": [
+        "Light of the Nation"
+      ],
       "local_government_areas": [
         {
           "code": "AGU",
@@ -396,7 +405,9 @@
       "code": "BA",
       "name": "Bauchi",
       "capital_city": "Bauchi",
-      "nicknames": ["Pearl of Tourism"],
+      "nicknames": [
+        "Pearl of Tourism"
+      ],
       "local_government_areas": [
         {
           "code": "ALK",
@@ -484,7 +495,9 @@
       "code": "BY",
       "name": "Bayelsa",
       "capital_city": "Yenagoa",
-      "nicknames": ["Glory of all Lands"],
+      "nicknames": [
+        "Glory of all Lands"
+      ],
       "local_government_areas": [
         {
           "code": "BRS",
@@ -524,7 +537,9 @@
       "code": "BE",
       "name": "Benue",
       "capital_city": "Makurdi",
-      "nicknames": ["Food Basket of the Nation"],
+      "nicknames": [
+        "Food Basket of the Nation"
+      ],
       "local_government_areas": [
         {
           "code": "GMU",
@@ -624,7 +639,9 @@
       "code": "BO",
       "name": "Borno",
       "capital_city": "Maiduguri",
-      "nicknames": ["Home of Peace"],
+      "nicknames": [
+        "Home of Peace"
+      ],
       "local_government_areas": [
         {
           "code": "ADM",
@@ -740,7 +757,9 @@
       "code": "CR",
       "name": "Cross River",
       "capital_city": "Calabar",
-      "nicknames": ["The People's Paradise"],
+      "nicknames": [
+        "The People's Paradise"
+      ],
       "local_government_areas": [
         {
           "code": "TGD",
@@ -820,7 +839,9 @@
       "code": "DT",
       "name": "Delta",
       "capital_city": "Asaba",
-      "nicknames": ["The Finger of God"],
+      "nicknames": [
+        "The Finger of God"
+      ],
       "local_government_areas": [
         {
           "code": "SLK",
@@ -928,7 +949,9 @@
       "code": "EB",
       "name": "Ebonyi",
       "capital_city": "Abakaliki",
-      "nicknames": ["Salt of the Nation"],
+      "nicknames": [
+        "Salt of the Nation"
+      ],
       "local_government_areas": [
         {
           "code": "AKL",
@@ -1068,7 +1091,9 @@
       "code": "EK",
       "name": "Ekiti",
       "capital_city": "Ado-Ekiti",
-      "nicknames": ["Land of Honour and Integrity"],
+      "nicknames": [
+        "Land of Honour and Integrity"
+      ],
       "local_government_areas": [
         {
           "code": "ADK",
@@ -1140,7 +1165,9 @@
       "code": "EN",
       "name": "Enugu",
       "capital_city": "Enugu",
-      "nicknames": ["Coal City State"],
+      "nicknames": [
+        "Coal City State"
+      ],
       "local_government_areas": [
         {
           "code": "DBR",
@@ -1216,7 +1243,9 @@
       "code": "FC",
       "name": "Federal Capital Territory",
       "capital_city": "Abuja",
-      "nicknames": ["Centre of Unity"],
+      "nicknames": [
+        "Centre of Unity"
+      ],
       "local_government_areas": [
         {
           "code": "ABJ",
@@ -1248,7 +1277,9 @@
       "code": "GB",
       "name": "Gombe",
       "capital_city": "Gombe",
-      "nicknames": ["Jewel of the Savannah"],
+      "nicknames": [
+        "Jewel of the Savannah"
+      ],
       "local_government_areas": [
         {
           "code": "AKK",
@@ -1300,7 +1331,10 @@
       "code": "IM",
       "name": "Imo",
       "capital_city": "Owerri",
-      "nicknames": ["Eastern Heartland", "Land of Hope"],
+      "nicknames": [
+        "Eastern Heartland",
+        "Land of Hope"
+      ],
       "local_government_areas": [
         {
           "code": "ABB",
@@ -1416,7 +1450,9 @@
       "code": "JG",
       "name": "Jigawa",
       "capital_city": "Dutse",
-      "nicknames": ["The New World"],
+      "nicknames": [
+        "The New World"
+      ],
       "local_government_areas": [
         {
           "code": "AUY",
@@ -1532,7 +1568,10 @@
       "code": "KD",
       "name": "Kaduna",
       "capital_city": "Kaduna",
-      "nicknames": ["Centre of Learning", "Liberal State"],
+      "nicknames": [
+        "Centre of Learning",
+        "Liberal State"
+      ],
       "local_government_areas": [
         {
           "code": "BNG",
@@ -1632,7 +1671,9 @@
       "code": "KN",
       "name": "Kano",
       "capital_city": "Kano",
-      "nicknames": ["Centre of Commerce"],
+      "nicknames": [
+        "Centre of Commerce"
+      ],
       "local_government_areas": [
         {
           "code": "AJG",
@@ -1816,7 +1857,9 @@
       "code": "KT",
       "name": "Katsina",
       "capital_city": "Katsina",
-      "nicknames": ["Home of Hospitality"],
+      "nicknames": [
+        "Home of Hospitality"
+      ],
       "local_government_areas": [
         {
           "code": "BKR",
@@ -1960,7 +2003,9 @@
       "code": "KB",
       "name": "Kebbi",
       "capital_city": "Birnin-Kebbi",
-      "nicknames": ["Land of Equity"],
+      "nicknames": [
+        "Land of Equity"
+      ],
       "local_government_areas": [
         {
           "code": "ALR",
@@ -2144,7 +2189,9 @@
       "code": "KW",
       "name": "Kwara",
       "capital_city": "Ilorin",
-      "nicknames": ["State of Harmony"],
+      "nicknames": [
+        "State of Harmony"
+      ],
       "local_government_areas": [
         {
           "code": "AFN",
@@ -2216,7 +2263,9 @@
       "code": "LA",
       "name": "Lagos",
       "capital_city": "Ikeja",
-      "nicknames": ["Centre of Excellence"],
+      "nicknames": [
+        "Centre of Excellence"
+      ],
       "local_government_areas": [
         {
           "code": "GGE",
@@ -2304,7 +2353,9 @@
       "code": "NR",
       "name": "Nasarawa",
       "capital_city": "Lafia",
-      "nicknames": ["Home of Solid Minerals"],
+      "nicknames": [
+        "Home of Solid Minerals"
+      ],
       "local_government_areas": [
         {
           "code": "AKW",
@@ -2364,7 +2415,9 @@
       "code": "NG",
       "name": "Niger",
       "capital_city": "Minna",
-      "nicknames": ["The Power State"],
+      "nicknames": [
+        "The Power State"
+      ],
       "local_government_areas": [
         {
           "code": "AGA",
@@ -2472,7 +2525,9 @@
       "code": "OG",
       "name": "Ogun",
       "capital_city": "Abeokuta",
-      "nicknames": ["Gateway State"],
+      "nicknames": [
+        "Gateway State"
+      ],
       "local_government_areas": [
         {
           "code": "AKM",
@@ -2560,7 +2615,9 @@
       "code": "OD",
       "name": "Ondo",
       "capital_city": "Akure",
-      "nicknames": ["Sunshine State"],
+      "nicknames": [
+        "Sunshine State"
+      ],
       "local_government_areas": [
         {
           "code": "KAK",
@@ -2640,7 +2697,10 @@
       "code": "OS",
       "name": "Osun",
       "capital_city": "Osogbo",
-      "nicknames": ["Land of Virtue", "State of the Living Spring"],
+      "nicknames": [
+        "Land of Virtue",
+        "State of the Living Spring"
+      ],
       "local_government_areas": [
         {
           "code": "SSU",
@@ -2768,7 +2828,9 @@
       "code": "OY",
       "name": "Oyo",
       "capital_city": "Ibadan",
-      "nicknames": ["Pace Setter State"],
+      "nicknames": [
+        "Pace Setter State"
+      ],
       "local_government_areas": [
         {
           "code": "JBL",
@@ -2908,7 +2970,9 @@
       "code": "PL",
       "name": "Plateau",
       "capital_city": "Jos",
-      "nicknames": ["Home of Peace and Tourism"],
+      "nicknames": [
+        "Home of Peace and Tourism"
+      ],
       "local_government_areas": [
         {
           "code": "BLD",
@@ -2984,7 +3048,9 @@
       "code": "RV",
       "name": "Rivers",
       "capital_city": "Port Harcourt",
-      "nicknames": ["Treasure Base of the Nation"],
+      "nicknames": [
+        "Treasure Base of the Nation"
+      ],
       "local_government_areas": [
         {
           "code": "ABU",
@@ -3084,7 +3150,9 @@
       "code": "SO",
       "name": "Sokoto",
       "capital_city": "Sokoto",
-      "nicknames": ["Seat of the Caliphate"],
+      "nicknames": [
+        "Seat of the Caliphate"
+      ],
       "local_government_areas": [
         {
           "code": "BJN",
@@ -3184,7 +3252,9 @@
       "code": "TR",
       "name": "Taraba",
       "capital_city": "Jalingo",
-      "nicknames": ["Nature's Gift to the Nation"],
+      "nicknames": [
+        "Nature's Gift to the Nation"
+      ],
       "local_government_areas": [
         {
           "code": "ARD",
@@ -3256,7 +3326,9 @@
       "code": "YB",
       "name": "Yobe",
       "capital_city": "Damaturu",
-      "nicknames": ["Pride of the Sahel"],
+      "nicknames": [
+        "Pride of the Sahel"
+      ],
       "local_government_areas": [
         {
           "code": "GSH",
@@ -3332,7 +3404,9 @@
       "code": "ZA",
       "name": "Zamfara",
       "capital_city": "Gusau",
-      "nicknames": ["Farming is Our Pride"],
+      "nicknames": [
+        "Farming is Our Pride"
+      ],
       "local_government_areas": [
         {
           "code": "ANK",
