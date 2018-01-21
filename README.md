@@ -14,6 +14,7 @@ property                   | type   | description
 ---------------------------|--------|------------
 `name`                     | string | Full name of state
 `code`                     | string | Official state code
+`capital_city`             | string | Capital city
 `nicknames`                | array  | Official nicknames of the state
 `local_government_areas`   | array  | Array containing local governments under the state
 
