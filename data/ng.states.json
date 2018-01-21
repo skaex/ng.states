@@ -3,8 +3,9 @@
     {
       "code": "AB",
       "name": "Abia",
+      "nicknames": ["God's Own State"],
       "local_government_areas": [
-      	{
+        {
           "code": "EZA",
           "name": "Aba North"
         },
@@ -77,8 +78,9 @@
     {
       "code": "AD",
       "name": "Adamawa",
+      "nicknames": ["Land of Beauty", "Highest Peak of The Nation"],
       "local_government_areas": [
-      	{
+        {
           "code": "DSA",
           "name": "Demsa"
         },
@@ -167,8 +169,9 @@
     {
       "code": "AK",
       "name": "Akwa Ibom",
+      "nicknames": ["Land of Promise"],
       "local_government_areas": [
-      	{
+        {
           "code": "ABK",
           "name": "ABRAK"
         },
@@ -297,8 +300,9 @@
     {
       "code": "AN",
       "name": "Anambra",
+      "nicknames": ["Light of the Nation"],
       "local_government_areas": [
-      	{
+        {
           "code": "AGU",
           "name": "Aguata"
         },
@@ -387,8 +391,9 @@
     {
       "code": "BA",
       "name": "Bauchi",
+      "nicknames": ["Pearl of Tourism"],
       "local_government_areas": [
-      	{
+        {
           "code": "ALK",
           "name": "Alkaleri"
         },
@@ -473,8 +478,9 @@
     {
       "code": "BY",
       "name": "Bayelsa",
+      "nicknames": ["Glory of all Lands"],
       "local_government_areas": [
-      	{
+        {
           "code": "BRS",
           "name": "Brass"
         },
@@ -511,8 +517,9 @@
     {
       "code": "BE",
       "name": "Benue",
+      "nicknames": ["Food Basket of the Nation"],
       "local_government_areas": [
-      	{
+        {
           "code": "GMU",
           "name": "Ado"
         },
@@ -609,8 +616,9 @@
     {
       "code": "BO",
       "name": "Borno",
+      "nicknames": ["Home of Peace"],
       "local_government_areas": [
-      	{
+        {
           "code": "ADM",
           "name": "Abadam"
         },
@@ -723,8 +731,9 @@
     {
       "code": "CR",
       "name": "Cross River",
+      "nicknames": ["The People's Paradise"],
       "local_government_areas": [
-      	{
+        {
           "code": "TGD",
           "name": "Abi"
         },
@@ -801,8 +810,9 @@
     {
       "code": "DT",
       "name": "Delta",
+      "nicknames": ["The Finger of God"],
       "local_government_areas": [
-      	{
+        {
           "code": "SLK",
           "name": "Aniocha North"
         },
@@ -907,8 +917,9 @@
     {
       "code": "EB",
       "name": "Ebonyi",
+      "nicknames": ["Salt of the Nation"],
       "local_government_areas": [
-      	{
+        {
           "code": "AKL",
           "name": "Abakaliki"
         },
@@ -965,8 +976,9 @@
     {
       "code": "ED",
       "name": "Edo",
+      "nicknames": "Heartbeat of The Nation",
       "local_government_areas": [
-      	{
+        {
           "code": "GAR",
           "name": "Akoko-Edo"
         },
@@ -1043,8 +1055,9 @@
     {
       "code": "EK",
       "name": "Ekiti",
+      "nicknames": ["Land of Honour and Integrity"],
       "local_government_areas": [
-      	{
+        {
           "code": "ADK",
           "name": "Ado-Ekiti"
         },
@@ -1113,8 +1126,9 @@
     {
       "code": "EN",
       "name": "Enugu",
+      "nicknames": ["Coal City State"],
       "local_government_areas": [
-      	{
+        {
           "code": "DBR",
           "name": "Aninri"
         },
@@ -1187,8 +1201,9 @@
     {
       "code": "FC",
       "name": "FCT",
+      "nicknames": ["Centre of Unity"],
       "local_government_areas": [
-      	{
+        {
           "code": "ABJ",
           "name": "Abaji"
         },
@@ -1217,8 +1232,9 @@
     {
       "code": "GB",
       "name": "Gombe",
+      "nicknames": ["Jewel of the Savannah"],
       "local_government_areas": [
-      	{
+        {
           "code": "AKK",
           "name": "Akko"
         },
@@ -1267,8 +1283,9 @@
     {
       "code": "IM",
       "name": "Imo",
+      "nicknames": ["Eastern Heartland", "Land of Hope"],
       "local_government_areas": [
-      	{
+        {
           "code": "ABB",
           "name": "Aboh-Mbaise"
         },
@@ -1381,8 +1398,9 @@
     {
       "code": "JG",
       "name": "Jigawa",
+      "nicknames": ["The New World"],
       "local_government_areas": [
-      	{
+        {
           "code": "AUY",
           "name": "Auyo"
         },
@@ -1495,8 +1513,9 @@
     {
       "code": "KD",
       "name": "Kaduna",
+      "nicknames": ["Centre of Learning", "Liberal State"],
       "local_government_areas": [
-      	{
+        {
           "code": "BNG",
           "name": "Birnin-Gwari"
         },
@@ -1593,8 +1612,9 @@
     {
       "code": "KN",
       "name": "Kano",
+      "nicknames": ["Centre of Commerce"],
       "local_government_areas": [
-      	{
+        {
           "code": "AJG",
           "name": "Ajingi"
         },
@@ -1775,8 +1795,9 @@
     {
       "code": "KT",
       "name": "Katsina",
+      "nicknames": ["Home of Hospitality"],
       "local_government_areas": [
-      	{
+        {
           "code": "BKR",
           "name": "Bakori"
         },
@@ -1917,8 +1938,9 @@
     {
       "code": "KB",
       "name": "Kebbi",
+      "nicknames": ["Land of Equity"],
       "local_government_areas": [
-      	{
+        {
           "code": "ALR",
           "name": "Aleiro"
         },
@@ -2007,8 +2029,9 @@
     {
       "code": "KG",
       "name": "Kogi",
+      "nicknames": "The Confluence State",
       "local_government_areas": [
-      	{
+        {
           "code": "DAV",
           "name": "Adavi"
         },
@@ -2097,8 +2120,9 @@
     {
       "code": "KW",
       "name": "Kwara",
+      "nicknames": ["State of Harmony"],
       "local_government_areas": [
-      	{
+        {
           "code": "AFN",
           "name": "Asa"
         },
@@ -2167,8 +2191,9 @@
     {
       "code": "LA",
       "name": "Lagos",
+      "nicknames": ["Centre of Excellence"],
       "local_government_areas": [
-      	{
+        {
           "code": "GGE",
           "name": "Agege"
         },
@@ -2253,8 +2278,9 @@
     {
       "code": "NR",
       "name": "Nasarawa",
+      "nicknames": ["Home of Solid Minerals"],
       "local_government_areas": [
-      	{
+        {
           "code": "AKW",
           "name": "Akwanga"
         },
@@ -2311,8 +2337,9 @@
     {
       "code": "NG",
       "name": "Niger",
+      "nicknames": ["The Power State"],
       "local_government_areas": [
-      	{
+        {
           "code": "AGA",
           "name": "Agaie"
         },
@@ -2417,8 +2444,9 @@
     {
       "code": "OG",
       "name": "Ogun",
+      "nicknames": ["Gateway State"],
       "local_government_areas": [
-      	{
+        {
           "code": "AKM",
           "name": "Abeokuta North"
         },
@@ -2503,8 +2531,9 @@
     {
       "code": "OD",
       "name": "Ondo",
+      "nicknames": ["Sunshine State"],
       "local_government_areas": [
-      	{
+        {
           "code": "KAK",
           "name": "Akoko North"
         },
@@ -2581,8 +2610,9 @@
     {
       "code": "OS",
       "name": "Osun",
+      "nicknames": ["Land of Virtue", "State of the Living Spring"],
       "local_government_areas": [
-      	{
+        {
           "code": "SSU",
           "name": "Atakunmosa"
         },
@@ -2707,8 +2737,9 @@
     {
       "code": "OY",
       "name": "Oyo",
+      "nicknames": ["Pace Setter State"],
       "local_government_areas": [
-      	{
+        {
           "code": "JBL",
           "name": "Afijio"
         },
@@ -2845,6 +2876,7 @@
     {
       "code": "PL",
       "name": "Plateau",
+      "nicknames": ["Home of Peace and Tourism"],
       "local_government_areas": [
         {
           "code": "BLD",
@@ -2919,8 +2951,9 @@
     {
       "code": "RV",
       "name": "Rivers",
+      "nicknames": ["Treasure Base of the Nation"],
       "local_government_areas": [
-      	{
+        {
           "code": "ABU",
           "name": "Aboa/Odual"
         },
@@ -3017,8 +3050,9 @@
     {
       "code": "SO",
       "name": "Sokoto",
+      "nicknames": ["Seat of the Caliphate"],
       "local_government_areas": [
-      	{
+        {
           "code": "BJN",
           "name": "Binji"
         },
@@ -3115,8 +3149,9 @@
     {
       "code": "TR",
       "name": "Taraba",
+      "nicknames": ["Nature's Gift to the Nation"],
       "local_government_areas": [
-      	{
+        {
           "code": "ARD",
           "name": "Ardo-Kola"
         },
@@ -3185,8 +3220,9 @@
     {
       "code": "YB",
       "name": "Yobe",
+      "nicknames": ["Pride of the Sahel"],
       "local_government_areas": [
-      	{
+        {
           "code": "GSH",
           "name": "Bade"
         },
@@ -3259,8 +3295,9 @@
     {
       "code": "ZA",
       "name": "Zamfara",
+      "nicknames": ["Farming is Our Pride"],
       "local_government_areas": [
-      	{
+        {
           "code": "ANK",
           "name": "Anka"
         },
